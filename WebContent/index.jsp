@@ -1,10 +1,11 @@
 <!-- templete.html -->
 <%@ page pageEncoding ="utf-8"%>
-<%@ include file="./inc/header.jsp" %>
+<%@ include file="./inc/hhh.jsp" %>
   <!-- breadcrumb start -->
   <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/index.jsp">전국공공체육시설</a></li>
+    <li class="breadcrumb-item"><a href="/index.jsp">HOME</a></li>
+        <li class="breadcrumb-item"><a href="/lll.jsp">LIST</li>
     
   </ol>
 </nav>
@@ -21,4 +22,4 @@
 	  <!--  col end -->
 	  </div>
      <!-- container end -->
-     <%@ include file="./inc/footer.jsp" %>
+     <%@ include file="../inc/footerrr.jsp" %>
